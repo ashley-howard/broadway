@@ -38,3 +38,7 @@ h3 {
   background-color: dimgray;
   text-align: left;
 }
+
+.thinbanner {
+  background-image: url("images/building.png");
+}
